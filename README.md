@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLuckyLuke1337
 - 👀 I’m interested in programming an computer related subjects. Also dancing and skiing.
-- 🌱 I’m currently learning various kinds of mathematics.
+- 🌱 I’m currently learning various kinds of mathematics and algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me using your hand if you are close enough.
 
